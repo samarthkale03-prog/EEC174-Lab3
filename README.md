@@ -1,5 +1,7 @@
 # EEC 174AY Lab 3: CNNs & Image Classification
 
+**Students:** Samarth Kale, Saarth Kishore  
+
 UC Davis, Fall 2026. This lab has three phases: building CNNs from scratch on MNIST, transfer learning with data augmentation on CIFAR-10, and an open-ended car-make classifier on the Stanford Cars dataset.
 
 ## Results at a glance
